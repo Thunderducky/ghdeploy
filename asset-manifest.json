@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ghdeploy/static/css/main.b100e6da.chunk.css",
+    "main.js": "/ghdeploy/static/js/main.f61a2ac8.chunk.js",
+    "main.js.map": "/ghdeploy/static/js/main.f61a2ac8.chunk.js.map",
+    "runtime-main.js": "/ghdeploy/static/js/runtime-main.9eb39d7d.js",
+    "runtime-main.js.map": "/ghdeploy/static/js/runtime-main.9eb39d7d.js.map",
+    "static/js/2.1b00bd74.chunk.js": "/ghdeploy/static/js/2.1b00bd74.chunk.js",
+    "static/js/2.1b00bd74.chunk.js.map": "/ghdeploy/static/js/2.1b00bd74.chunk.js.map",
+    "index.html": "/ghdeploy/index.html",
+    "precache-manifest.27870333bf8ec2110f236408d5270b8a.js": "/ghdeploy/precache-manifest.27870333bf8ec2110f236408d5270b8a.js",
+    "service-worker.js": "/ghdeploy/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/ghdeploy/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/ghdeploy/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9eb39d7d.js",
+    "static/js/2.1b00bd74.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.f61a2ac8.chunk.js"
+  ]
+}
